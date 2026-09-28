@@ -1,0 +1,6 @@
+{
+  "name": "AQUORA — Aquatic Understanding & Risk Anticipation",
+  "description": "Next-generation environmental foresight platform simulating urban freshwater watershed dynamics, real-time risk anticipation, and community-driven evidence verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
